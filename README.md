@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## Limpia Porfi 2
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,48 +8,42 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** :Limpia Porfi 2
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos) 
+**Autor:**  Erika Sánchez García
 
  [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto representa vivir con una mala compañera de piso: suciedad, ruido y en este caso, cacas de su perro. Como persona que vive en el mismo espacio, te tocará aguantar y esperar a que limpie.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:** Juego
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 600x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Ordenador
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 25 KB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 27/05/2020
 
 **Medios** (donde se tiene presencia relacionada):
-
+- Itch.io: https://erikasg161correougres.itch.io/limpia-porfi-2
 - Github:
-- Twitter
-- Instagram
 
-
-![girl](WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
+Este juego es la segunda parte de un proyecto de mi compañera de piso que se enuentra en otra clase. En esta segunda parte, tu compañera de piso de pelo azul ha vuelto con su perro, es decir, que a parte de vivir con sucieddad, ¡tendrás que vivir con las cacas! 
 
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 
 
@@ -82,13 +76,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Los pintores pintan a modo de expresar sus emociones, ya sea una etapa de experimetacion, una etapa triste , etc. Pues yo quería expresar mi rabia tras el año que he tenido viviendo con esta persona.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a cualquier público debido a su carácter divertido y sus imágenes coloridas.
 
 
 
@@ -102,14 +96,18 @@ Este  proyecto es interesante porque ...
 - Video 
 - Instrucciones y ayuda al usuario 
 - Menús y elementos de navegación (botones)
-- etc.
+- Diseño de personajes originales.
+- Varios escenarios explorables conforme avanza la historia.
+- Diseño de sonido: Soundtrack controlado mediante sonido global.
+- Diseño de interfaz coherente en todo el juego: Botones, fuentes y un tema personalizado de Dialogic que se adecúen a la estética.
+- Cinemáticas animadas mediante AnimationPlayer.
 
 
 
 ## Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
-
+Me hubiese gustado explorar más niveles y  controlar más en sí a la plataforma.
+He tenido complicaciones a cada paso, el nunca gaber hecho nada así sumado a que no tengo ordenador personal y no sé controlarlosme ha costado más de la cuenta.
 
 
 # 4. Conclusiones 
